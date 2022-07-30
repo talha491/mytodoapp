@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http;/talha491.github.io/mytodoapp/static/css/main.073c9b0a.css",
+    "main.js": "/http;/talha491.github.io/mytodoapp/static/js/main.fdeea6c6.js",
+    "static/js/787.f237a53c.chunk.js": "/http;/talha491.github.io/mytodoapp/static/js/787.f237a53c.chunk.js",
+    "index.html": "/http;/talha491.github.io/mytodoapp/index.html",
+    "main.073c9b0a.css.map": "/http;/talha491.github.io/mytodoapp/static/css/main.073c9b0a.css.map",
+    "main.fdeea6c6.js.map": "/http;/talha491.github.io/mytodoapp/static/js/main.fdeea6c6.js.map",
+    "787.f237a53c.chunk.js.map": "/http;/talha491.github.io/mytodoapp/static/js/787.f237a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fdeea6c6.js"
+  ]
+}
